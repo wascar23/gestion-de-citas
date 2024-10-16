@@ -1,0 +1,15 @@
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\bin\Debug\net8.0\CitasApp.Data.deps.json
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\bin\Debug\net8.0\CitasApp.Data.runtimeconfig.json
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\bin\Debug\net8.0\CitasApp.Data.dll
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\bin\Debug\net8.0\CitasApp.Data.pdb
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.csproj.AssemblyReference.cache
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.AssemblyInfoInputs.cache
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.AssemblyInfo.cs
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.csproj.CoreCompileInputs.cache
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.sourcelink.json
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.dll
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\refint\CitasApp.Data.dll
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.pdb
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\CitasApp.Data.genruntimeconfig.cache
+D:\Gestion%20de20%Citas\CitasApp\CitasApp.Data\obj\Debug\net8.0\ref\CitasApp.Data.dll

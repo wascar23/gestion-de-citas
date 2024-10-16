@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GGIU6UacZdE4wUvSqVC57P4+COl8HBAAIRQ+U8aUw7V8tQoU9vuRmdExHzwE5RE0FHwYtZ4pyKBR2Ic+ZBJ19A==",
+  "dgSpecHash": "XTgKuama20s=",
   "success": true,
-  "projectFilePath": "D:\\Gestion%20de20%Citas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj",
+  "projectFilePath": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adric\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\adric\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

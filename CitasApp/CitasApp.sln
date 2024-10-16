@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitasApp.Data", "CitasApp.Data\CitasApp.Data.csproj", "{E1D45ABC-853A-47C3-A3A5-5A5D4DBAA990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CitasApp.Data", "CitasApp.Data\CitasApp.Data.csproj", "{E1D45ABC-853A-47C3-A3A5-5A5D4DBAA990}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitasApp.Test", "CitasApp.Test\CitasApp.Test.csproj", "{98E0B5BF-53B4-4139-8617-3A50255D73A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CitasApp.Test", "CitasApp.Test\CitasApp.Test.csproj", "{98E0B5BF-53B4-4139-8617-3A50255D73A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitasApp.Web", "CitasApp.Web\CitasApp.Web.csproj", "{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitasApp.Web", "Prueba\CitasApp.Web.csproj", "{7F4F1431-4FE6-43B1-8D0B-BC37580B7469}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{98E0B5BF-53B4-4139-8617-3A50255D73A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98E0B5BF-53B4-4139-8617-3A50255D73A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98E0B5BF-53B4-4139-8617-3A50255D73A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4F1431-4FE6-43B1-8D0B-BC37580B7469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4F1431-4FE6-43B1-8D0B-BC37580B7469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4F1431-4FE6-43B1-8D0B-BC37580B7469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4F1431-4FE6-43B1-8D0B-BC37580B7469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

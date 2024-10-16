@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gestion%20de20%Citas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj": {}
+    "D:\\GestiondeCitas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj": {}
   },
   "projects": {
-    "D:\\Gestion%20de20%Citas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj": {
+    "D:\\GestiondeCitas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gestion%20de20%Citas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj",
+        "projectUniqueName": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj",
         "projectName": "CitasApp.Test",
-        "projectPath": "D:\\Gestion%20de20%Citas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj",
+        "projectPath": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Test\\CitasApp.Test.csproj",
         "packagesPath": "C:\\Users\\adric\\.nuget\\packages\\",
-        "outputPath": "D:\\Gestion%20de20%Citas\\CitasApp\\CitasApp.Test\\obj\\",
+        "outputPath": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adric\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
