@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GestiondeCitas\\CitasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\views\\home\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\views\\home\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|d:\\gestiondecitas\\citasapp\\citasapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FBC207-2EB4-48D0-9F7C-195AD6D0E09C}|CitasApp.Web\\CitasApp.Web.csproj|solutionrelative:citasapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CitasApp.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CitasApp.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T01:16:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.js",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "CitasApp.Web\\wwwroot\\js\\login.js",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\js\\login.js*",
+              "RelativeToolTip": "CitasApp.Web\\wwwroot\\js\\login.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T01:10:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Views\\Home\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "CitasApp.Web\\Views\\Home\\Login\\Login.cshtml",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Views\\Home\\Login\\Login.cshtml*",
+              "RelativeToolTip": "CitasApp.Web\\Views\\Home\\Login\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T00:39:03.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CitasApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CitasApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:59:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CitasApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CitasApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T00:53:00.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CitasApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CitasApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T00:43:36.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "CitasApp.Web\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "CitasApp.Web\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAQwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T00:45:23.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
