@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mvwk+/VXeX6aT3CjDGQN48sujyp0Eh9pES8AqHQxlgQ=",
+  "Hash": "XhmMHeqx+GaqagjecxVYJpMkq42+dZefbcexWFTj4Q4=",
   "Source": "CitasApp.Web",
   "BasePath": "_content/CitasApp.Web",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\js\\login.js",
+      "SourceId": "CitasApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\",
+      "BasePath": "_content/CitasApp.Web",
+      "RelativePath": "js/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
       "Identity": "D:\\GestiondeCitas\\CitasApp\\CitasApp.Web\\wwwroot\\js\\site.js",
